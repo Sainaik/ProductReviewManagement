@@ -1,0 +1,13 @@
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.csprojAssemblyReference.cache
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.AssemblyInfoInputs.cache
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.AssemblyInfo.cs
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.csproj.CoreCompileInputs.cache
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.exe
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.deps.json
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.runtimeconfig.json
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.runtimeconfig.dev.json
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.dll
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\bin\Debug\netcoreapp3.1\ProductReviewManagement.pdb
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.dll
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.pdb
+C:\Users\saiku\source\repos\ProductReviewManagement\ProductReviewManagement\obj\Debug\netcoreapp3.1\ProductReviewManagement.genruntimeconfig.cache
